@@ -10,7 +10,7 @@ DeFiYield's smart contract scanner can be used to quickly gather a comprehensive
 
 #### Expansive Vulnerability Coverage
 
-The scanner doesn't only scan for the most superficial exploits and threats like reentrancy attacks, unchecked transfers, etc. Any exploit or vulnerability discovered in the recent years have been included and are checked for. This includes anything from Solidity best practices to ERC standards, proper control flow or checking proper privileged function setups.
+The scanner doesn't only scan for the most superficial exploits and threats like reentrancy attacks, unchecked transfers, etc. Any exploit or vulnerability discovered in the recent years has been included and are checked for. This includes anything from Solidity best practices to ERC standards, proper control flow or checking proper privileged function setups.
 
 #### Simple & Informative Security Score
 
