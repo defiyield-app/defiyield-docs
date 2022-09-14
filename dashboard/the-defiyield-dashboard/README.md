@@ -6,7 +6,7 @@ Our dashboard is the most central element to DeFiYield’s ecosystem. Not only i
 Check out all the blockchains we support [**here**](supported-blockchains.md)!
 {% endhint %}
 
-![Dashboard Home Page Preview](<../../.gitbook/assets/image (1).png>)
+![Dashboard Home Page Preview](<../../.gitbook/assets/image (1) (1).png>)
 
 ## Dashboard Tools <a href="#dashboard-tools" id="dashboard-tools"></a>
 

@@ -34,6 +34,10 @@
 * [Audit Database](audits/audit-database.md)
 * [Rekt Database](audits/rekt-database.md)
 
+## 💻 API
+
+* [API](api/api.md)
+
 ## 🔗 Links
 
 * [Website](https://defiyield.app)
