@@ -22,7 +22,7 @@ Before being able to query either one, make sure you have properly [**authentica
   * `cost`, `remaining`, `resetAt`
 * **chains** - Includes information about the many blockchains we have integrated into our dashboard.
   * `id`, `absoluteChainId`, `abbr`, `name`, `type`
-* assets - Paginated data about the many assets we have integrated into our dashboard.
+* **assets** - Paginated data about the many assets we have integrated into our dashboard.
   * `id`, `address`, `chainId`, `name`, `symbol`, `icon`, `decimals`, `categories`, `chain`
 * **assetsPrices** - Price information regarding any of our integrated assets.
   * `id`, `address`, `chainId`, `price`
