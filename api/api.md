@@ -6,6 +6,8 @@ The DeFiYield API is still under development! Details below may change prior to 
 
 The DeFiYield API is the easiest way to integrate our expansive functionality into any app of your choosing. Whether you are interested in querying our audit or Rekt databases, querying a wallet's balances or details about the many blockchains we've integrated, our API is here for you.
 
+Our API supports all the tokens, protocols and blockchains supported by our app - meaning you'll have access to data from 25+ blockchains, 270+ protocols and countless tokens.
+
 ## Querying
 
 Queries should be made to the following URL:
@@ -20,7 +22,7 @@ Before being able to query either one, make sure you have properly [**authentica
 
 * **credits** - Credit information with regards to your API key.
   * `cost`, `remaining`, `resetAt`
-* **chains** - Includes information about the many blockchains we have integrated into our dashboard.
+* **chains** - Includes information about the many blockchains we have integrated into our dashboard ([**list here**](../dashboard/the-defiyield-dashboard/supported-blockchains.md)).
   * `id`, `absoluteChainId`, `abbr`, `name`, `type`
 * **assets** - Paginated data about the many assets we have integrated into our dashboard.
   * `id`, `address`, `chainId`, `name`, `symbol`, `icon`, `decimals`, `categories`, `chain`
@@ -28,13 +30,13 @@ Before being able to query either one, make sure you have properly [**authentica
   * `id`, `address`, `chainId`, `price`
 * **assetBalances** - Asset balances for any given wallet address.
   * `total`, `assets` (`asset`, `balance`, `price`, `total`)
-* **protocols** - Includes information about the many dapps we have integrated into our dashboard.
+* **protocols** - Includes information about the many dapps we have integrated into our dashboard ([**list here**](../dashboard/the-defiyield-dashboard/supported-protocols.md)).
   * `name`, `slug`, `features` (`list`, `chain`)
 * **protocolBalance** - Protocol balances for any given wallet address.
   * `protocol`, `address`, `total`, `chains` (`chain`, `featureList`, `total`, `positions`)
-* **rekts** - Paginated data about all hacks and exploits in our Rekt database.
+* **rekts** - Paginated data about all hacks and exploits in our [**Rekt Database**](../audits/rekt-database.md).
   * `id`, `projectName`, `description`, `date`, `fundsLost`, `fundsReturned`, `chainIds`, `category`, `issueType`, `token`
-* **shields** - Safety information from DeFiYield Shield regarding any given wallet address(es).
+* **shields** - Safety information from [**DeFiYield Shield**](../security-toolkit/shield.md) regarding any given wallet address(es).
   * `id`, `address`, `network`, `name`, `logo`, `inProgress`, `whitelisted`, `version`, `tags`, `token`, `issues` (`id`, `registryId`, `impact`, `title`, `description`, `category`, `data`)
 
 ## Authentication
@@ -65,6 +67,6 @@ Most queries have a rate limit of 100 requests per minute.
 
 The following queries have a rate limit of 20 requests per minute:
 
-* assetBalances
-* protocolBalance
-* shields
+* **assetBalances**
+* **protocolBalance**
+* **shields**
