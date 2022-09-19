@@ -70,3 +70,11 @@ The following queries have a rate limit of 20 requests per minute:
 * **assetBalances**
 * **protocolBalance**
 * **shields**
+
+## SDK
+
+We also provide an SDK to facilitate our API's usage if you plan on utilizing it in a Node.js environment. Install it as follows:
+
+`npm i @defiyield-app/sdk`
+
+The SDK's documentation can be found [**here**](https://www.npmjs.com/package/@defiyield-app/sdk).
