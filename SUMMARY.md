@@ -46,3 +46,7 @@
 * [Telegram](https://t.me/defiyield\_app)
 * [YouTube](https://www.youtube.com/c/DEFIYIELD)
 * [Whitepaper](https://defiyield.app/whitepaper.pdf)
+
+## 📚 Resources
+
+* [Brand Assets](resources/brand-assets.md)
