@@ -38,6 +38,10 @@
 
 * [API](api/api.md)
 
+## 📚 Resources
+
+* [Brand Assets](resources/brand-assets.md)
+
 ## 🔗 Links
 
 * [Website](https://defiyield.app)
@@ -46,7 +50,3 @@
 * [Telegram](https://t.me/defiyield\_app)
 * [YouTube](https://www.youtube.com/c/DEFIYIELD)
 * [Whitepaper](https://defiyield.app/whitepaper.pdf)
-
-## 📚 Resources
-
-* [Brand Assets](resources/brand-assets.md)
