@@ -1,9 +1,5 @@
 # API
 
-{% hint style="warning" %}
-The DeFiYield API is still under development! Details below may change prior to a full launch.
-{% endhint %}
-
 The DeFiYield API is the easiest way to integrate our expansive functionality into any app of your choosing. Whether you are interested in querying our audit or Rekt databases, querying a wallet's balances or details about the many blockchains we've integrated, our API is here for you.
 
 Our API supports all the tokens, protocols and blockchains supported by our app - meaning you'll have access to data from 25+ blockchains, 270+ protocols and countless tokens.
