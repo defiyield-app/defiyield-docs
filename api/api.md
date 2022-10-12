@@ -39,9 +39,9 @@ Before being able to query either one, make sure you have properly [**authentica
 
 In order to use our API, you must first get a valid API key. Get one by sending a request [**here**](https://defiyield.zendesk.com/hc/en-us/requests/new) with the "Public API Request" type.
 
-You will have to use an `api_key` header with your key on every request. For example, on our GraphQL playground, you should test your key as follows:
+You will have to use an `X-Api-Key` header with your key on every request. For example, on our GraphQL playground, you should test your key as follows:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot at Oct 12 14-34-25.png" alt=""><figcaption></figcaption></figure>
 
 ### Pricing
 
