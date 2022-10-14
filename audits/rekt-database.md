@@ -2,7 +2,7 @@
 
 Striving to remain the biggest contributor to the safety of the DeFi community, DeFiYield has developed a most comprehensive database of all exploits, attacks, exit scams and other instances of projects getting 'rekt'. Our [**Rekt Database**](https://defiyield.app/rekt-database) offers a way to quickly search through these.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ## Exploit Search
 
