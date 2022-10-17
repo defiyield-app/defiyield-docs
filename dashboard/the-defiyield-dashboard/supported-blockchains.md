@@ -3,30 +3,39 @@
 We're proud to support a large number of blockchains providing the best DeFi services for our community. Below is a list of all the blockchains we support:
 
 * Ethereum
-* BNB Chain
-* Fantom
-* Avalanche
-* Polygon
-* Arbitrum
-* Gnosis Chain
-* Celo
-* Moonriver
-* Harmony One
-* Heco
-* OKX
-* Cronos
-* Boba
-* KCC
-* Aurora
 * Optimism
+* Cronos
+* Thorchain
+* Akash
+* Sifchain
+* Stargaze
+* Juno
+* Kujira
+* Agoric
+* Binance
+* Okx
+* Gnosis
 * Solana
-* Terra
-* Cardano
+* Heco
+* Polygon
+* Fantom
+* Boba
+* Kucoin
+* Carddano
 * Metis
-* Osmosis
-* Kava
-* Secret
+* Moonriver
 * Milkomeda
+* Cosmos
+* Kava
+* Osmosis
+* Secret
+* Binance.com
+* Klaytn
+* Arbitrum
+* Celo
+* Avalanche
+* Aurora
+* Harmony
 
 {% hint style="info" %}
 Are we missing one of your favorite blockchains? Let us know by reaching out through our community channels!
