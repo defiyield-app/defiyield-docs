@@ -14,6 +14,6 @@ You can be as specific as you'd like. For example, you may be looking for the fo
 * A TVL of at least $100M, in order to really filter only for the most trusted and utilized protocols.
 * Sorted by APR, to net you decent profits throughout the year.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 You can click on any of the pools found through our app, netting you the quickest way to make use of all the opportunities available in DeFi.

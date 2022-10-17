@@ -24,7 +24,7 @@ Depending on the rarity of your NFT's traits, you might have a very expensive pi
 
 ### Collection Info
 
-![NFT Collection's Information](../../.gitbook/assets/image.png)
+![NFT Collection's Information](<../../.gitbook/assets/image (46).png>)
 
 The 'Collection' tab on any NFT will give you a description of the collection an NFT is part of, if any. We'll also provide you with links to the collection's website, marketplace on OpenSea as well as any additional relevant socia media links.
 
