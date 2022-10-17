@@ -1,6 +1,12 @@
 # Supported Blockchains
 
-We're proud to support a large number of blockchains providing the best DeFi services for our community. Below is a list of all the blockchains we support:
+We're proud to support a large number of blockchains providing the best DeFi services for our community.
+
+{% hint style="info" %}
+Check out our always up-to-date page [**here**](https://defiyield.app/protocols) to also see the protocols supported for each of these chains!
+{% endhint %}
+
+Below is a list of all the blockchains we support:
 
 * Ethereum
 * Optimism
