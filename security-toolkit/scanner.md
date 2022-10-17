@@ -24,7 +24,7 @@ Alongside the security score, our scanner provides you with a PDF report of all 
 
 #### Fast Scanning
 
-In about 15 seconds you are able to have all the details regarding any contract you'd like, with likely better coverage than most audits out there.
+In less than a couple seconds you are able to have all the details regarding any contract you'd like, with likely better coverage than most audits out there.
 
 ## Scanner Architecture
 
