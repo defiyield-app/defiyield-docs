@@ -14,6 +14,6 @@ This includes all the data on the pool's underlying tokens, their prices, the yi
 
 Similarly to staking in DeFi protocols, we support native staking and/or delegating as well:
 
-![LUNA Delegation on Terra](<../../.gitbook/assets/image (28).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-In the example above we have a LUNA delegation to two different validators on Terra. The deposit page will clearly display your delegations, their value and underlying token price as well as any outstanding rewards that are ready for you to collect at any time.
+In the example above we have an ADA delegation to a validators on Cardano. The deposit page will clearly display your delegations, their value and underlying token price as well as any outstanding rewards you've earned throughout your stake!

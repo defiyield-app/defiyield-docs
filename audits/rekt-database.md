@@ -14,4 +14,4 @@ By clicking on the 'Details' column next to any project, you can view a detailed
 
 Search by chain, category, type of exploit/hack, name of project, date or even for the company that audited the affected contracts:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
