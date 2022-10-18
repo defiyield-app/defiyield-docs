@@ -27,7 +27,7 @@ Below is a list of all the blockchains we support:
 * Fantom
 * Boba
 * Kucoin
-* Carddano
+* Cardano
 * Metis
 * Moonriver
 * Milkomeda
