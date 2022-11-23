@@ -25,15 +25,19 @@ Before being able to query either one, make sure you have properly [**authentica
 * **assetsPrices** - Price information regarding any of our integrated assets.
   * `id`, `address`, `chainId`, `price`
 * **assetBalances** - Asset balances for any given wallet address.
-  * `total`, `assets` (`asset`, `balance`, `price`, `total`)
+  * `total`, `assets`
 * **protocols** - Includes information about the many dapps we have integrated into our dashboard ([**list here**](../dashboard/the-defiyield-dashboard/supported-protocols.md)).
-  * `name`, `slug`, `features` (`list`, `chain`)
+  * `name`, `slug`, `features`
 * **protocolBalance** - Protocol balances for any given wallet address.
-  * `protocol`, `address`, `total`, `chains` (`chain`, `featureList`, `total`, `positions`)
+  * `protocol`, `address`, `total`, `chains`
 * **rekts** - Paginated data about all hacks and exploits in our [**Rekt Database**](../audits/rekt-database.md).
   * `id`, `projectName`, `description`, `date`, `fundsLost`, `fundsReturned`, `chainIds`, `category`, `issueType`, `token`
 * **shields** - Safety information from [**DeFiYield Shield**](../security-toolkit/shield.md) regarding any given wallet address(es).
-  * `id`, `address`, `network`, `name`, `logo`, `inProgress`, `whitelisted`, `version`, `tags`, `token`, `issues` (`id`, `registryId`, `impact`, `title`, `description`, `category`, `data`)
+  * `id`, `address`, `network`, `name`, `logo`, `inProgress`, `whitelisted`, `version`, `tags`, `token`, `issues`
+* **opportunities** - Information regarding any DeFi opportunities available based on your preferred search terms.
+  * `id`, `chainId`, `apr`, `totalValueLocked`, `categories`, `investmentUrl`, `isNew`, `status`, `farm`, `tokens`
+* **opportunityFarms** - List of DeFi farm opportunities.
+  * `id`, `url`, `slug`, `logo`, `categories`
 
 ## Authentication
 
@@ -56,6 +60,8 @@ In order to make queries with your API key, you must purchase credits. The more 
 * **protocolBalance** - 10 Credits
 * **rekts** - 3 Credits
 * **shields** - 10 Credits
+* **opportunities** - 3 Credits
+* **opportunityFarms** - 1 Credit
 
 ### Rate Limits
 
