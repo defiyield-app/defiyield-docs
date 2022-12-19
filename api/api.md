@@ -14,7 +14,7 @@ You can test out your queries before setting them up in your app through our han
 
 Before being able to query either one, make sure you have properly [**authenticated**](api.md#authentication) your queries!
 
-### Available Queries
+## Available Endpoints
 
 * **credits** - Credit information with regards to your API key.
   * `cost`, `remaining`, `resetAt`
@@ -47,31 +47,23 @@ You will have to use an `X-Api-Key` header with your key on every request. For e
 
 <figure><img src="../.gitbook/assets/Screenshot at Oct 12 14-34-25.png" alt=""><figcaption></figcaption></figure>
 
-### Pricing
+## Pricing & Rate Limits
 
 In order to make queries with your API key, you must purchase credits. The more complex your queries, the more credits may be used up when requesting data from our API.
 
-* **credits** - 1 Credit
-* **chains** - 1 Credit
-* **assets** - 1 Credit
-* **assetsPrices** - 1 Credit
-* **assetBalances** - 10 Credits
-* **protocols** - 1 Credit
-* **protocolBalance** - 10 Credits
-* **rekts** - 3 Credits
-* **shields** - 10 Credits
-* **opportunities** - 3 Credits
-* **opportunityFarms** - 1 Credit
-
-### Rate Limits
-
-Most queries have a rate limit of 100 requests per minute.
-
-The following queries have a rate limit of 20 requests per minute:
-
-* **assetBalances**
-* **protocolBalance**
-* **shields**
+| Endpoint         | Credit Cost | Rate Limit (per minute) |
+| ---------------- | ----------: | ----------------------: |
+| credits          |           1 |                     100 |
+| chains           |           1 |                     100 |
+| assets           |           1 |                     100 |
+| assetsPrices     |           1 |                     100 |
+| assetBalances    |          10 |                      20 |
+| protocols        |           1 |                     100 |
+| protocolBalance  |          10 |                      20 |
+| rekts            |           3 |                     100 |
+| shields          |          10 |                      20 |
+| opportunities    |           3 |                     100 |
+| opportunityFarms |           1 |                     100 |
 
 ## SDK
 
