@@ -38,6 +38,12 @@
 
 * [API](api/api.md)
 
+## 🛠 DeFiYield Workshop
+
+* [Getting Started](defiyield-workshop/getting-started.md)
+* [New Integration Guide](defiyield-workshop/new-integration-guide.md)
+* [Testing Integrations](defiyield-workshop/testing-integrations.md)
+
 ## 📚 Resources
 
 * [Brand Assets](resources/brand-assets.md)

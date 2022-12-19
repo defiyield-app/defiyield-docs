@@ -20,7 +20,7 @@ Once you have selected your wallet preference, your wallet will likely prompt yo
 
 If you do not have access to the wallet you are trying to keep track of or just want to easily add multiple wallet addresses, you can simply enter any wallet's address to your watchlist through the Address Book page.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 Type the address of your wallet on the textbox to the right and click on 'Add to watch'. This can be your actual wallet address or an ENS domain if you have one setup.
 

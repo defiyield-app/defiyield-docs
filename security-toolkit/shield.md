@@ -22,7 +22,7 @@ Our [advanced mode](shield.md#advanced-mode) can aid you in more specifically se
 
 By analyzing any tokens in your wallet(s), we highlight tokens that may be vulnerable to exploits on our **High Risk Tokens** section, present an explanation as to why that is the case, as well as how much exposure you have to any of these tokens:
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Selecting **Swap** will allow you to easily and safely swap the vulnerable tokens out of your wallet.
 
