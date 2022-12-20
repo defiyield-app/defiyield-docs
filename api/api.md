@@ -53,17 +53,17 @@ In order to make queries with your API key, you must purchase credits. The more 
 
 | Endpoint         | Credit Cost | Rate Limit (per minute) |
 | ---------------- | ----------: | ----------------------: |
-| credits          |           1 |                     100 |
-| chains           |           1 |                     100 |
+| assetBalances    |          10 |                      20 |
 | assets           |           1 |                     100 |
 | assetsPrices     |           1 |                     100 |
-| assetBalances    |          10 |                      20 |
-| protocols        |           1 |                     100 |
-| protocolBalance  |          10 |                      20 |
-| rekts            |           3 |                     100 |
-| shields          |          10 |                      20 |
+| chains           |           1 |                     100 |
+| credits          |           1 |                     100 |
 | opportunities    |           3 |                     100 |
 | opportunityFarms |           1 |                     100 |
+| protocolBalance  |          10 |                      20 |
+| protocols        |           1 |                     100 |
+| rekts            |           3 |                     100 |
+| shields          |          10 |                      20 |
 
 ## SDK
 
