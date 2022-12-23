@@ -154,8 +154,18 @@ interface FetchTokenPricesContext extends Context {
 
 ## Troubleshooting
 
+#### TypeScript Errors
+
 If you're seeing TypeScript resolution errors throughout your local repository, make sure you set your TypeScript version to the one used by the workspace. Modern IDEs may prompt you to do this when loading it:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example TypeScript version prompt</p></figcaption></figure>
 
 If not, you might still be able to set it manually. On VSCode, for example, use `Ctrl+Shift+P` and search for `TypeScript: Select TypeScript Version...` where you can select the workshop's version.
+
+#### Missing Token Details
+
+If a token you are trying to get details for is not available, try waiting a few minutes as the API will try to resolve the token's details over time. If it remains unavailable, please [**open a new issue**](https://github.com/defiyield-app/defiyield-workshop/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Missing%20Token:).
+
+#### Incorrect Token Details
+
+If the data for any token you are using in your integration seems incorrect, such as its decimals, symbol, pricing information, etc. please [**open a new issue**](https://github.com/defiyield-app/defiyield-workshop/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Incorrect%20Token:).
