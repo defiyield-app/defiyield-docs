@@ -6,7 +6,7 @@ By using the **DeFiYield Workshop**, anyone can quickly and easily integrate a d
 
 Navigate to our [**code repository**](https://github.com/defiyield-app/defiyield-workshop) and click on the "Fork" button:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 This will create a copy of the DeFiYield Workshop code that you can edit as you'd like.
 

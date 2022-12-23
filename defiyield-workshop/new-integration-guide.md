@@ -84,7 +84,7 @@ yarn workshop start YOUR_INTEGRATION_NAME_HERE
 
 Once this command is running, simply navigate to [**http://localhost:8070**](http://localhost:8070) on your browser of choice to see it in action. You'll be able to see a UI to help you test and debug your integration:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example Testing UI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example Testing UI</p></figcaption></figure>
 
 ## Module Creation
 
