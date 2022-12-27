@@ -99,6 +99,6 @@ describe("Utils", () => {
 
 ## API Requests
 
-Throughout your tests, you may notice that token prices are significantly cached. This is because the workshop repository is using the public API endpoint. If this is an issue for you, you may add your API key to your local setup's \`.env\` file.
+Throughout your tests, you may notice that token prices are significantly cached. This is because the local repository is using the public API endpoint. If this is an issue for you, you may add your API key to your local setup's \`.env\` file.
 
 To learn more about our API, check out our documentation [**here**](broken-reference).

@@ -38,11 +38,11 @@
 
 * [API](api/api.md)
 
-## 🛠 DeFiYield Workshop
+## 🛠 DeFiYield Self Integrations
 
-* [Getting Started](defiyield-workshop/getting-started.md)
-* [New Integration Guide](defiyield-workshop/new-integration-guide.md)
-* [Testing Integrations](defiyield-workshop/testing-integrations.md)
+* [Getting Started](defiyield-self-integrations/getting-started.md)
+* [New Integration Guide](defiyield-self-integrations/new-integration-guide.md)
+* [Testing Integrations](defiyield-self-integrations/testing-integrations.md)
 
 ## 📚 Resources
 

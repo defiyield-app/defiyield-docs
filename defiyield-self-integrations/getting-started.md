@@ -1,14 +1,14 @@
 # Getting Started
 
-By using the **DeFiYield Workshop**, anyone can quickly and easily integrate a dapp (decentralized application) into DeFiYield's dashboard. If you're looking to add one of your own integrations, follow the following steps:
+By using **DeFiYield Self Integrations**, anyone can quickly and easily integrate a dapp (decentralized application) into DeFiYield's dashboard. If you're looking to add one of your own integrations, follow the following steps:
 
-## Step 1 - Fork the DeFiYield Workshop Repository
+## Step 1 - Fork the DeFiYield Self Integrations Repository
 
-Navigate to our [**code repository**](https://github.com/defiyield-app/defiyield-workshop) and click on the "Fork" button:
+Navigate to our [**code repository**](https://github.com/defiyield-app/defiyield-self-integrations) and click on the "Fork" button:
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-This will create a copy of the DeFiYield Workshop code that you can edit as you'd like.
+This will create a copy of the DeFiYield Self Integrations code that you can edit as you'd like.
 
 ## Step 2 - Add Your Integration
 
@@ -16,7 +16,7 @@ Follow our [**new integration guide**](new-integration-guide.md) to add your ver
 
 ## Step 3 - Make a Pull Request
 
-By making a Pull Request (PR) you are suggesting your additions to the main DeFiYield Workshop codebase. Our team can quickly review your new integration and merge your code in, or suggest some potential changes.
+By making a Pull Request (PR) you are suggesting your additions to the main DeFiYield Self Integrations codebase. Our team can quickly review your new integration and merge your code in, or suggest some potential changes.
 
 Make a PR by clicking on the "Contribute" button in your own repository:
 

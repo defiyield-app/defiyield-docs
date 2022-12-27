@@ -1,10 +1,10 @@
 # New Integration Guide
 
-Looking to add a new integration through the **DeFiYield Workshop**? You came to the right place! Here you'll find everything you need to know to integrate a new dapp. Feel free to check out repository's [**readme**](https://github.com/defiyield-app/defiyield-workshop/blob/main/README.md) for more details.
+Looking to add a new integration through **DeFiYield Self Integrations**? You came to the right place! Here you'll find everything you need to know to integrate a new dapp. Feel free to check out repository's [**readme**](https://github.com/defiyield-app/defiyield-self-integrations/blob/main/README.md) for more details.
 
 ## Supported Blockchains
 
-The DeFiYield Workshop currently supports new integrations in the following blockchains:
+DeFiYield Self Integrations currently supports new integrations in the following blockchains:
 
 * Arbitrum
 * Aurora
@@ -33,7 +33,7 @@ The DeFiYield Workshop currently supports new integrations in the following bloc
 
 ## Supported Integration Categories
 
-These are the current categories for integrations on the DeFiYield Workshop. If you have an integration that doesn't fit into any of the following, open up an issue on our repository!
+These are the current categories for new integrations. If you have an integration that doesn't fit into any of the following, open up an issue on our repository!
 
 * DEX
 * Yield
@@ -160,12 +160,12 @@ If you're seeing TypeScript resolution errors throughout your local repository, 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example TypeScript version prompt</p></figcaption></figure>
 
-If not, you might still be able to set it manually. On VSCode, for example, use `Ctrl+Shift+P` and search for `TypeScript: Select TypeScript Version...` where you can select the workshop's version.
+If not, you might still be able to set it manually. On VSCode, for example, use `Ctrl+Shift+P` and search for `TypeScript: Select TypeScript Version...` where you can select the workspace's version.
 
 #### Missing Token Details
 
-If a token you are trying to get details for is not available, try waiting a few minutes as the API will try to resolve the token's details over time. If it remains unavailable, please [**open a new issue**](https://github.com/defiyield-app/defiyield-workshop/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Missing%20Token:).
+If a token you are trying to get details for is not available, try waiting a few minutes as the API will try to resolve the token's details over time. If it remains unavailable, please [**open a new issue**](https://github.com/defiyield-app/defiyield-self-integrations/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Missing%20Token:).
 
 #### Incorrect Token Details
 
-If the data for any token you are using in your integration seems incorrect, such as its decimals, symbol, pricing information, etc. please [**open a new issue**](https://github.com/defiyield-app/defiyield-workshop/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Incorrect%20Token:).
+If the data for any token you are using in your integration seems incorrect, such as its decimals, symbol, pricing information, etc. please [**open a new issue**](https://github.com/defiyield-app/defiyield-self-integrations/issues/new?assignees=\&labels=i%3A+bug%2C+i%3A+needs+triage\&template=token-bugs.md\&title=Incorrect%20Token:).
